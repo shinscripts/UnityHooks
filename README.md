@@ -6,7 +6,7 @@ UnityHooks is a lightweight wrapper for creating and sending Discord webhook mes
 
 Whether you're reporting a new high score, sharing a gameplay event, or posting server status updates, UnityHooks gives you two ways to compose messages: **method chaining** or **directly setting embed properties**.
 
-[Project write-up and showcase](https://www.shahinmohseni.se/projects/)
+[Project write-up and showcase](https://www.shahinmohseni.se/projects/UnityHooks)
 
 ## Features
 
@@ -15,7 +15,7 @@ Whether you're reporting a new high score, sharing a gameplay event, or posting 
 - **Two configuration styles** - Use chainable methods or initialize the embed's public properties directly.
 - **Asynchronous sending** - Send webhooks with `await` and inspect the result, response code, and error information.
 - **JSON inspection** - Call `ToJson()` to inspect the generated webhook payload while developing or debugging.
-- **Unity-focused** - Written in C# as a Unity project, with a practical demonstration described in the [project write-up](https://www.shahinmohseni.se/projects/).
+- **Unity-focused** - Written in C# as a Unity project, with a practical demonstration described in the [project write-up](https://www.shahinmohseni.se/projects/UnityHooks).
 
 ## Getting started
 
